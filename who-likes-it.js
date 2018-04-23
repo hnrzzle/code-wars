@@ -10,4 +10,6 @@ function likes(names) {
     } else {
       return names[0] + ', ' + names[1] + ' and ' + (names.length - 2) + ' others like this';
     }
-  }
+}
+
+// http://www.codewars.com/kata/who-likes-it/train/javascript

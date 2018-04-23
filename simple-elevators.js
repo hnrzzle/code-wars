@@ -11,3 +11,4 @@ function goto(level,button){
 }
 
 // kata found here http://www.codewars.com/kata/simple-elevator/javascript
+// comment
